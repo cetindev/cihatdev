@@ -5,4 +5,4 @@ public class Main {
     }
 }
 ```
-![image](https://www.verdict.co.uk/wp-content/uploads/2017/09/giphy-downsized-large.gif)
+![image](https://github.com/cihatdev/cihatdev/blob/master/gif.gif)
