@@ -5,4 +5,4 @@ public class Main {
     }
 }
 ```
-![image](https://github.com/cihatdev/cihatdev/blob/master/gif2.gif)
+![image](https://github.com/cihatdev/cihatdev/blob/master/gif2.gif" height="200")
